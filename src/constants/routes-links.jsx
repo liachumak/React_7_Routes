@@ -4,3 +4,7 @@ export const REGISTRATION_PATH = "/registration";
 export const REF_PATH = "/ref/:refInfo";
 export const SINGLE_USER_PATH = "/user/:id?";
 export const NOTFOUND_PATH = "*";
+export const ORDER_PATH = "/orders";
+export const ABOUT_PATH = "/about";
+export const NEWS_PATH = "/news";
+export const BLOG_PATH ="/blog";
