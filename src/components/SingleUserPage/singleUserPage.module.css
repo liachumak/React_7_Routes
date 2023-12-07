@@ -1,0 +1,15 @@
+.common{
+    border: 1px solid silver;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 600px;
+    padding: 20px;
+    background: linear-gradient(0deg, rgba(124,124,128,1) 0%, rgba(235,252,255,1) 100%);
+}
+.common h3 {
+    color: rgb(84, 84, 84);
+    align-content: center;
+}
